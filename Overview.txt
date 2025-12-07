@@ -1,0 +1,16 @@
+This project recreates the classic Knight Rider / KITT scanning light effect using Arduino Uno and multiple LEDs.
+The lights sweep back and forth smoothly, creating a dynamic animation similar to the iconic car from the Knight Rider series.
+
+Features:
+- Smooth left–right scanning LED effect
+- Adjustable delay for controlling LED speed
+- Uses an array to easily manage multiple LEDs
+- Beginner-friendly and well-structured code
+
+Hardware Requirements:
+- Arduino Uno
+- 10–12 LEDs (or more)
+- 220Ω resistors
+- Jumper wires (male to male; n+1 wires where n is the number of led)
+- Breadboard
+- Potentiometer (Optional)
